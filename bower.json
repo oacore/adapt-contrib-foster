@@ -1,11 +1,11 @@
 {
-  "name": "adapt-contrib-foster",
+  "name": "adapt-contrib-omtd",
   "version": "2.1.2",
   "framework": "^2.1.0",
-  "homepage": "https://github.com/oacore/adapt-contrib-foster",
-  "displayName": "FOSTER",
-  "theme": "foster",
-  "description": "A FOSTER theme",
+  "homepage": "https://github.com/oacore/adapt-contrib-omtd",
+  "displayName": "OpenMinTed",
+  "theme": "openminted",
+  "description": "A OpenMinTed theme",
   "main": "js/vanilla.js",
   "keywords": [
     "adapt-plugin",
